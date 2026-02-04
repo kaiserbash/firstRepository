@@ -1,2 +1,2 @@
-# firstRepository
+# notes
 Practice projects in C
