@@ -1,2 +1,2 @@
-# notes
-Practice projects in C
+# hacking notes
+Most of this work is done using a kali VM.
